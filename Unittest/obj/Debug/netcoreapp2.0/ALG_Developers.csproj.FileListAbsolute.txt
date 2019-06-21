@@ -1,0 +1,10 @@
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\bin\Debug\netcoreapp2.0\ALG_Developers.deps.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\bin\Debug\netcoreapp2.0\ALG_Developers.runtimeconfig.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\bin\Debug\netcoreapp2.0\ALG_Developers.runtimeconfig.dev.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\bin\Debug\netcoreapp2.0\ALG_Developers.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\bin\Debug\netcoreapp2.0\ALG_Developers.pdb
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\obj\Debug\netcoreapp2.0\ALG_Developers.csproj.CoreCompileInputs.cache
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\obj\Debug\netcoreapp2.0\ALG_Developers.AssemblyInfoInputs.cache
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\obj\Debug\netcoreapp2.0\ALG_Developers.AssemblyInfo.cs
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\obj\Debug\netcoreapp2.0\ALG_Developers.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\Unittest\obj\Debug\netcoreapp2.0\ALG_Developers.pdb

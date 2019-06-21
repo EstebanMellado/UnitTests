@@ -1,0 +1,17 @@
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.UnitTests.deps.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.UnitTests.runtimeconfig.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.UnitTests.runtimeconfig.dev.json
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.UnitTests.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.UnitTests.pdb
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\bin\Debug\netcoreapp2.0\ALG_Developers.pdb
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.csprojAssemblyReference.cache
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.AssemblyInfoInputs.cache
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.AssemblyInfo.cs
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.csproj.CopyComplete
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.dll
+C:\Users\emellado\Desktop\VS_Projects\Dummys\Aspnetcore\UnitTest\MSTest\TestProject1\obj\Debug\netcoreapp2.0\ALG_Developers.UnitTests.pdb
