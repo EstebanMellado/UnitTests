@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>CompanyApi.Application</AssemblyName>
+    <RootNamespace>CompanyApi.Application</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Dto\**" />
+    <EmbeddedResource Remove="Dto\**" />
+    <None Remove="Dto\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\CompanyApi.Domain\CompanyApi.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\CompanyApi.Persistence\CompanyApi.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
