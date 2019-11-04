@@ -1,3 +1,3 @@
 Workshop UnitTests.
 
-Ejemplo de Unit Tests utilizando MSTests.
+Ejemplo de Unit Tests utilizando MSTest y Moq
